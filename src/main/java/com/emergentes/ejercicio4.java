@@ -10,10 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Eva Carmen Huaylliri Ajata
- */
+
 
 @WebServlet(name = "ejercicio4", urlPatterns = {"/ejercicio4"})
 public class ejercicio4 extends HttpServlet {
