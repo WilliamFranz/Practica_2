@@ -9,10 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Eva Carmen Huaylliri Ajata
- */
+
 @WebServlet(name = "ejercicio1", urlPatterns = {"/ejercicio1"})
 public class ejercicio1 extends HttpServlet {
     @Override
